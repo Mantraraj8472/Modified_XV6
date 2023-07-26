@@ -16,7 +16,7 @@
 #include "x86.h"
 
 // initialising historyct variable to -1 initially
-int historyc t = -1;
+int historyct = -1;
 // setting max historyct to 16
 #define MAX_HISTORY_CT 16
 // array to store history
